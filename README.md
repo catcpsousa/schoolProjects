@@ -10,3 +10,5 @@ an operation from the history; show the whole history; and clear the display and
 - It is possible to show, on request, a help screen with all the available options and their syntax;
 - All interaction with the user is validated in order to avoid errors during the execution of the calculator. When necessary I resorted to exception handling;
 - It has an option to terminate the calculator.
+
+<a href="https://www.buymeacoffee.com/catarinacpo"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a burguer&emoji=🍔&slug=catarinacpo&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
